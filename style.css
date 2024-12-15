@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 200px;
+}
+.main-container{
+    background-color: rgb(192, 192, 201);
+}
+.sub-container{
+    width:25%;
+    border: 1px solid blue;
+    margin: 50px auto;
+}
